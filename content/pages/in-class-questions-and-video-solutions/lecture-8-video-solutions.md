@@ -6,7 +6,7 @@ title: Lecture 8 Video Solutions
 uid: c194b3a4-6abc-5e09-e950-3ce3c8d6e987
 ---
 
-[<< Return to In-Class Questions](http://ocw2.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/)
+[\<\< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
 
 Class Definition
 ----------------

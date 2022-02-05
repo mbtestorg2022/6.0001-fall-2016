@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Shell vs. Editor\t"
+title: 'Shell vs. Editor '
 uid: 9fa9dd0c-078c-0527-cd9d-278c902a9570
 video_files:
   archive_url: https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_exercise_01_300k.mp4

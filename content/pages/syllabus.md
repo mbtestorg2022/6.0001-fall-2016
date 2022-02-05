@@ -47,12 +47,57 @@ Grading Policy
 
 Grades will be roughly computed as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 30% |
-| Completion of mandatory finger exercises | 10% |
-| Midterm Quiz | 20% |
-| Final Quiz | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Completion of mandatory finger exercises
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem sets will be graded out of 10 points. Submissions that do not run will receive at most 20% of the points. Please contact your Teaching Assistant if you have a problem understanding your problem set grade.
 
@@ -74,17 +119,165 @@ Before the final quiz, we will send out an announcement in which you can choose 
 Calendar
 --------
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | What is computation? | Pset 0 released |
-| 2 | Branching and Iteration | Pset 1 released |
-| 3 | String Manipulation, Guess and Check, Approximations, Bisection | Pset 0 due |
-| 4 | Decomposition, Abstractions, Functions | Pset 2 released |
-| 5 | Tuples, Lists, Aliasing, Mutability, Cloning | Pset 1 due |
-| 6 | Recursion, Dictionaries | Pset 3 released |
-| 7 | Testing, Debugging, Exceptions, Assertions | Pset 2 due; Quiz 1 |
-| 8 | Object Oriented Programming | &nbsp; |
-| 9 | Python Classes and Inheritance | Pset 3 due; Pset 4 released |
-| 10 | Understanding Program Efficiency, Part 1 | Pset 4 due; Pset 5 released |
-| 11 | Understanding Program Efficiency, Part 2 | &nbsp; |
-| 12 | Searching and Sorting | Pset 5 due; Final Quiz
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+What is computation?
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 0 released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Branching and Iteration
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 1 released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+String Manipulation, Guess and Check, Approximations, Bisection
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 0 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Decomposition, Abstractions, Functions
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 2 released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tuples, Lists, Aliasing, Mutability, Cloning
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Recursion, Dictionaries
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 3 released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Testing, Debugging, Exceptions, Assertions
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 2 due; Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Python Classes and Inheritance
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 3 due; Pset 4 released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Understanding Program Efficiency, Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 4 due; Pset 5 released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Understanding Program Efficiency, Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Searching and Sorting
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 5 due; Final Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
